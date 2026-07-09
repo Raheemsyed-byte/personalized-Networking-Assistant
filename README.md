@@ -147,8 +147,4 @@ http://127.0.0.1:5000/
 
 The **Personalized Networking Assistant** is an innovative AI-based solution that simplifies professional networking by providing personalized recommendations based on user profiles and career interests. It helps users discover meaningful connections, expand their professional network, and explore new career opportunities efficiently. With future enhancements such as AI-powered career guidance, real-time communication, and advanced recommendation algorithms, the platform has the potential to become a comprehensive networking solution for students, professionals, and organizations.
 
----
 
-## License
-
-This project is licensed under the **MIT License**.
